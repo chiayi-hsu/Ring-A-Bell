@@ -13,3 +13,17 @@ The code of **Prompt Discovery** is in "InversePrompt.ipynb".
 <br>
 <br>
 You can get the problematic prompts after you conduct "InversePrompt.ipynb". Then you can use problematic prompts to evaluate the effectiveness of the concept removal methods.
+<br>
+<br>
+
+## Citation
+```
+@inproceedings{
+ringabell,
+title={Ring-A-Bell! How Reliable are Concept Removal Methods For Diffusion Models?},
+author={Yu-Lin Tsai*, Chia-Yi Hsu*, Chulin Xie, Chih-Hsun Lin, Jia-You Chen, Bo Li, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=lm7MRcsFiS}
+}
+```
