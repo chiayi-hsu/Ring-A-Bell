@@ -17,6 +17,7 @@ You can get the problematic prompts after you conduct "InversePrompt.ipynb". The
 <br>
 
 ## Citation
+Please feel free to email us at ```chiayihsu8315@gmail.com```. If this work is useful in your own research, please consider citing our work!
 ```
 @inproceedings{
 ringabell,
