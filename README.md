@@ -7,12 +7,12 @@ Code for reproducing the results in the paper "Ring-A-Bell! How Reliable are Con
 ![image](https://github.com/chiayi-hsu/Ring-A-Bell/blob/main/model_architecture.png)
 
 ### 📌 Concept Extraction
-The code of **Concept Extraction** is in "Get_Concept_Vector.ipynb".
+The code of **Concept Extraction** is in ```Get_Concept_Vector.ipynb```.
 ### 📌 Prompt Discovery
-The code of **Prompt Discovery** is in "InversePrompt.ipynb".
+The code of **Prompt Discovery** is in ```InversePrompt.ipynb```.
 <br>
 <br>
-You can get the problematic prompts after you conduct "InversePrompt.ipynb". Then you can use problematic prompts to evaluate the effectiveness of the concept removal methods.
+You can get the problematic prompts after you conduct ```InversePrompt.ipynb```. Then you can use problematic prompts to evaluate the effectiveness of the concept removal methods.
 <br>
 <br>
 
