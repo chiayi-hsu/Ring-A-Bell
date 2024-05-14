@@ -17,6 +17,8 @@ You can get the problematic prompts after you conduct ```InversePrompt.ipynb```.
 <br>
 
 ## Citation
+🔔🔔 If you need InvPrompts for nudity, please visit ``` https://huggingface.co/datasets/Chia15/RingABell-Nudity``` and send the request.
+<br><br>
 Please feel free to email us at ```chiayihsu8315@gmail.com```. If this work is useful in your own research, please consider citing our work!
 ```
 @inproceedings{
