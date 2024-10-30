@@ -1,7 +1,7 @@
 # Ring-A-Bell
 
 
-Code for reproducing the results in the paper "Ring-A-Bell! How Reliable are Concept Removal Methods For Diffusion Models?".
+Code for reproducing the results in the paper "Ring-A-Bell! How Reliable are Concept Removal Methods For Diffusion Models?" [Link](<https://arxiv.org/abs/2310.10012>).
 
 ## Framework of Ring-A-Bell
 ![image](https://github.com/chiayi-hsu/Ring-A-Bell/blob/main/model_architecture.png)
